@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.prose {
+    margin-bottom: 12px;
+}
+
+.prose h1,.prose h2,.prose h3,.prose h4{
+    margin-top: 2px;
+    margin-bottom: 0;
+}
